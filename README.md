@@ -13,7 +13,7 @@
 
 ## ⚙️ Установка
 ```bash
-git clone https://github.com/BengaminButton/xXillen-Ultimate-IDE.git
+git clone https://github.com/BengaminButton/Xillen-Ultimate-IDE.git
 cd Xillen-Ultimate-IDE
 pip install -r requirements.txt
 python main.py
